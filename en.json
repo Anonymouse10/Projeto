@@ -1,0 +1,7 @@
+{
+  "select-language": "Select Language",
+  "offline-ready": "{appName} esse site funciona sem internet!",
+  "need-refresh": "uma nova versão do {appName} está disponivel.",
+  "reload-button": "Atualizar",
+  "close-button": "Fechar"
+}
